@@ -1,0 +1,9 @@
+[package]
+name = "source-map-node"
+version = "0.0.1"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/piot/source-map-node"
+description = "compiler node with documentation and meta information"
+
+[dependencies]
